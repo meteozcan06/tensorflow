@@ -1,0 +1,10 @@
+"Belge yönetimi, belgelerin oluşturulmasında ve düzenlenmesinde, gereken durumlarda kullanılması için depolanması ve korunmasında,
+erişim kolaylığının sağlanmasında ve bunun için düzenlenmesinde rol alan uygulamalar ve sistemler bütünüdür.
+Günümüzde kurumların başarılarını devam ettirebilmeleri oldukça önemlidir."
+"Yapay zeka, bilgisayarın veya bilgisayar kontrolündeki bir robotun çeşitli faaliyetleri zeki canlılara benzer
+şekilde yerine getirme kabiliyetidir. Yapay zekanın geçmişi 1940'lara kadar gidiyor. ...
+Başka bir deyişle, Yapay zeka bilgisayarın insanlar gibi düşünmesini sağlar."
+"Tüm bu karmaşık verileri anlamak için, büyük veri projeleri genellikle yapay zeka ve makine öğrenimini içeren en son analitiği kullanır.
+Veriler, dünyamızı ve yaşama tarzını daha önce görülmemiş bir oranda değiştirmektedir.
+Büyük veri bugün bunlardan her şeye yetiyorsa; sadece yarın neler yapabileceğini hayal edin.
+Kullanılabilir olan veri miktarı sadece artacak ve analitik teknolojisi daha da ileriye taşınacaktır."
